@@ -1,0 +1,3 @@
+# Tailwind CSS Styling Issue: Unexpected Class Behavior
+
+This repository demonstrates a common issue encountered when working with Tailwind CSS: unexpected styling behavior where classes either don't seem to be applied or are overridden unexpectedly. This issue occurs due to various factors like specificity conflicts, typos in class names, or missing styles. This example shows a basic scenario and how to resolve it.
